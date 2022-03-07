@@ -1,3 +1,8 @@
  the first line in mkb file 
+<<<<<<< HEAD
  the second line in mkb file
  this is mkb line 
+=======
+ the second line in mkb file 
+ weget is the third line mkb file 
+>>>>>>> 2d37af96daedcfa5a2d00989a1a575b30f6d48ee
